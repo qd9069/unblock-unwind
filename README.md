@@ -20,7 +20,7 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Credits](#credits)
 - [Technology](#technology)
 - [Assets](#assets)
-
+- [License](#license)
 
 ## Usage
 
@@ -77,6 +77,9 @@ The following images demonstrate the web application's appearance and functional
 ![image of page2](./assets/images/page2.png)
 ![image of page3](./assets/images/page3.html.png)
 ![image of page4](./assets/images/page4.png)
+
+## License
+Copyright (c) 2022 Elaine D. Released under the MIT [License](./LICENSE).
 
 ---
 
